@@ -1,3 +1,3 @@
 # SLR-Parser
-this is a Java code that gets SLR grammar, parse it and test user written input to be sure that it is correct based on grammar or not.
+write the SLR (1) parser with JAVA programming Language, The program gets the SLR (1) grammar as input, then parse it based on SLR grammar and evaluate inputs based on the grammar.
 this program has GUI with JAVA swings and we can see different information like parse tree and ....
